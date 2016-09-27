@@ -1,0 +1,13 @@
+<ion-view title="Stove Control">
+    <ion-content overflow-scroll="true" padding="true" class="has-header has-footer">
+        <div data-ng-init="init()">
+            <h1 style="text-align: center">Stove Status: {{stoveStatusEnglish}}</p>
+        </div>
+        <button class="button button-balanced button-block " ng-click="stoveOn()">Stove On</button>
+        <div >
+            <img src="img/{{stoveImage}}"  style="max-width: 60%; 
+        max-height: 60%; display:block; margin:auto;" />
+        </div>
+        <button class="button button-assertive button-block " ng-click="stoveOff()">Stove Off</button>
+    </ion-content>
+</ion-view>
