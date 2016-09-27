@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ionic App Base
 =====================
 
@@ -23,3 +24,7 @@ More info on this can be found on the Ionic [Getting Started](http://ionicframew
 
 ## Issues
 Issues have been disabled on this repo, if you do find an issue or have a question consider posting it on the [Ionic Forum](http://forum.ionicframework.com/).  Or else if there is truly an error, follow our guidelines for [submitting an issue](http://ionicframework.com/submit-issue/) to the main Ionic repository.
+=======
+# stovecontrol
+Ionic hybrid application used to communicate with Arduino to control a Harman pellet stove.
+>>>>>>> 18cb1ffa3db6514baee34e337b7d18eafa4e0a98
